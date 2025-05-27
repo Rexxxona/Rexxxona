@@ -37,3 +37,9 @@
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=Rexxxona&theme=radical" />
 </p>
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/relja-%C4%91urovi%C4%87/)
+![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~0118cd2522bd815a83?mp_source=share)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:djurovicrelja5@gmail.com)
