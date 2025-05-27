@@ -1,16 +1,44 @@
-## Hi there 👋
+<!-- Cyberpunk Banner GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="700" alt="cyberpunk animation" />
+</p>
 
-<!--
-**Rexxxona/Rexxxona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Yo, I'm Rexxxona
 
-Here are some ideas to get you started:
+### 🧠 React Developer | Web Wizard | Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 Based in Montenegro  
+- 💡 I build modern React.js websites with clean code and strong visuals  
+- 🚀 Always learning — currently diving deeper into SCSS and TypeScript  
+- 🔗 Check out my projects right here on GitHub  
+- 📬 Reach me at: [djurovicrelja5@gmail.com](mailto:djurovicrelja5@gmail.com)
+
+---
+
+### ⚙️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rexxxona&show_icons=true&theme=radical" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rexxxona&layout=compact&theme=radical" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=Rexxxona&theme=radical" />
+</p>
