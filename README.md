@@ -1,8 +1,3 @@
-<!-- Cyberpunk Banner GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="700" alt="cyberpunk animation" />
-</p>
-
 # 👋 Yo, I'm Rexxxona
 
 ### 🧠 React Developer | Web Wizard | Student
