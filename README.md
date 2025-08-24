@@ -1,4 +1,4 @@
-# 👋 Yo, I'm Rexxxona
+# 👋 Yo, I'm Relja
 
 ### 🧠 React Developer | Web Wizard | Student
 
