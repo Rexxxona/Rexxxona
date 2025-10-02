@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Relja
 
-### 🧠 React Developer | Web Wizard | Student
+### 🧠 React Developer | Student
 
 - 📍 Based in Montenegro  
 - 💡 I build modern React.js websites with clean code and strong visuals  
